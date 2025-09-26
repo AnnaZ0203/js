@@ -59,4 +59,4 @@ function processMovies(movies, action) {
     action(movies[i], i);
   }
 }
-//idkk how to do after
+//idkk how to do it after
